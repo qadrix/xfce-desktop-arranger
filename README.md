@@ -58,7 +58,7 @@ Clang for doas
 doas emerge --ask clang
 ```
 
-FreeBSD/OpenBSD/NetBSD:
+<h2>FreeBSD/OpenBSD/NetBSD:</h2>
 
 GCC for sudo
 
