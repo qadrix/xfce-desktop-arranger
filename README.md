@@ -2,7 +2,7 @@ This is a script which can be run to automatically arrange your Xfce Desktop ico
 
 First of all ensure that you have a C compiler, pick GCC or Clang.
 
-Ubuntu/Debian based:
+<h2>Ubuntu/Debian based:</h2>
 
 GCC
 
@@ -16,7 +16,7 @@ Clang
 sudo apt-get install clang
 ````
 
-Fedora
+<h2>Fedora</h2>
 
 GCC
 
@@ -30,27 +30,27 @@ Clang
 sudo dnf install clang
 ```
 
-Gentoo:
+<h2>Gentoo:</h2>
 
-GCC
+GCC for sudo
 
 ```
 sudo emerge --ask gcc
 ```
 
-or
+GCC for doas
 
 ```
 doas emerge --ask gcc
 ```
 
-Clang
+Clang for sudo
 
 ```
 sudo emerge --ask clang
 ```
 
-or
+Clang for doas
 
 ```
 doas emerge --ask clang
@@ -58,25 +58,25 @@ doas emerge --ask clang
 
 FreeBSD/OpenBSD/NetBSD:
 
-GCC
+GCC for sudo
 
 ```
 sudo pkg install gcc
 ```
 
-or
+GCC for doas
 
 ```
 doas pkg install gcc
 ```
 
-Clang
+Clang for sudo
 
 ```
 sudo pkg install clang
 ```
 
-or
+Clang for doas
 
 ```
 doas pkg install clang
