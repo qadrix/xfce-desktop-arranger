@@ -58,6 +58,11 @@ Clang for doas
 doas emerge --ask clang
 ```
 
+<h2>Linux From Scratch (LFS)</h2>
+
+GCC Source: https://gcc.gnu.org/git/gcc.git 
+Clang Source: https://clang.llvm.org/
+
 <h2>FreeBSD/OpenBSD/NetBSD:</h2>
 
 GCC for sudo
