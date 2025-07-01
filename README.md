@@ -1,5 +1,7 @@
 This is a script which can be run to automatically arrange your Xfce Desktop icons ever 1 second, performance is usually 1.2M of RAM in my experience.
 
+<img src="promo.gif" type="image/gif"></img>
+
 First of all ensure that you have a C compiler, pick GCC or Clang.
 
 <h2>Ubuntu/Debian based:</h2>
